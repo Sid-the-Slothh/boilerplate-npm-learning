@@ -11,6 +11,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Sid-the-Slothh/boilerplate-npm-learning.git"
-	}
+	},
+	"description": "This is a cool project!"
 }
 
