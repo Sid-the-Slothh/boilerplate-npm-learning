@@ -1,5 +1,4 @@
 {
-	"author": "Sid the Sloth",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -8,9 +7,10 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Sid the Sloth",
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/Sid-the-Slothh/boilerplate-npm-learning.git"
 	}
 }
 
